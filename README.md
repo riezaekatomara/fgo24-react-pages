@@ -72,11 +72,11 @@ fgo24-react-pages/
 ├── src/
 │   ├── assets/            # Images and media
 │   ├── components/        # Reusable React components
-        Navbar.jsx
+          Navbar.jsx
 │   ├── pages/             # Individual page components
-        AboutPage.jsx
-        ContactUsPage.jsx
-        HomePage.jsx
+          AboutPage.jsx
+          ContactUsPage.jsx
+          HomePage.jsx
 │   ├── App.jsx            # Main App component with routing
 │   ├── main.jsx           # Entry point
 │   └── index.css          # Tailwind CSS imports
